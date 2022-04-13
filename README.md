@@ -9,4 +9,4 @@ O que aprendi:
 
 
 ## Link do projeto
-pollysanto.github.io/Orkut_Tela_de_Login/
+https://pollysantos.github.io/Orkut_Tela_de_Login/
