@@ -6,3 +6,7 @@ O que aprendi:
 - Efeitos de transição
 - Utilizar a propriedade filter para escurecer os botões no efeito hover
 - Uso do flexbox para centralização dos elementos
+
+
+## Link do projeto
+pollysanto.github.io/Orkut_Tela_de_Login/
